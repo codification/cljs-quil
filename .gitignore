@@ -1,0 +1,14 @@
+/out
+/js
+/target
+/classes
+/checkouts
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+/.lein-*
+/.nrepl-port
+/figwheel_server.log
+resources/public/js/out/
+resources/public/js/main.js
